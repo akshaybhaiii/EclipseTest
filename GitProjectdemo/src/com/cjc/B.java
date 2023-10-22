@@ -1,9 +1,12 @@
 package com.cjc;
 
 public class B {
-  public static void main[String arg[])
+  public static void main(String arg[])
   {
     System.out.println("hii");
+    System.out.println("welcome");
+
+    
   }
   
 
